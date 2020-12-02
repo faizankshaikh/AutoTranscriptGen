@@ -1,0 +1,5 @@
+torchaudio
+omegaconf
+soundfile
+symspellpy
+aeneas
