@@ -1,5 +1,5 @@
 numpy>=1.9
-heroku
+Flask
 torch
 torchaudio
 omegaconf
