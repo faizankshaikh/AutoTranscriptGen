@@ -1,6 +1,6 @@
+numpy
 torchaudio
 omegaconf
 soundfile
 symspellpy
 aeneas
-numpy
