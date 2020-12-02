@@ -3,3 +3,4 @@ omegaconf
 soundfile
 symspellpy
 aeneas
+numpy
